@@ -13,7 +13,7 @@ In this lesson, you’ll learn how to set up your CSS file structure and select 
 - Selectors
 
 
-## Quizes
+## Quizzes
 - Setup and Selectors
 
 ## Projects

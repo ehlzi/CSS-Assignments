@@ -11,7 +11,7 @@ Learn how to use the Box Model to position HTML elements on your web page.
 - Changing the Box Model
 
 
-## Quizes
+## Quizzes
 - The Box Model
 
 ## Projects
